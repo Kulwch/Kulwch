@@ -1,4 +1,6 @@
-### Welcome on my GitHub profile ! 👋
+![Cover](https://github.com/Kulwch/Kulwch/blob/main/img/banner.png)
+
+### Welcome on my GitHub profile ! 👋 (Profile construction in progress)
 
 My name is Julien, web developer from Herblay, France .
 :monocle_face: I am searching for a job as junior web developer, backend or full stack are my preferences.
