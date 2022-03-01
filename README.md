@@ -2,8 +2,7 @@
 
 ### Welcome on my GitHub profile ! 👋 (Profile construction in progress)
 
-My name is Julien, I am a web developer from Herblay, France . 🧐 I am looking for a job as junior web developer. I would like to work as Backend or full stack developer.
-💻 I’m currently learning Python basics, how to use Symfony 5, and SCRUM.
+My name is Julien, I am a web developer from Herblay, France . 🧐 I am a developer / CIAM consultant at Point Base.
 
 If you would like to see the projects I have developed during my training program with OpenClassrooms, you can have a look below:
 
