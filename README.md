@@ -1,8 +1,8 @@
 ![Cover](https://github.com/Kulwch/Kulwch/blob/main/img/banner.png)
 
-### Welcome on my GitHub profile ! 👋 (Profile construction in progress)
+### Welcome on my GitHub profile ! 👋
 
-My name is Julien, I am a web developer from Herblay, France . 🧐 I am a developer / CIAM consultant at Point Base.
+My name is Julien, I am a developer / CIAM consultant at Point Base. 🧐
 
 If you would like to see the projects I have developed during my training program with OpenClassrooms, you can have a look below:
 
